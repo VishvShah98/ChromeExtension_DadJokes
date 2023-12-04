@@ -13,5 +13,5 @@
 ![Dad Jokes Extension Screenshot](https://github.com/VishvShah98/Dad_Jokes/assets/70076769/7656163d-b2b8-405f-a88b-8abbad5e2266)
 
 ## API Reference
-This extension uses the Dad Jokes API provided by RapidAPI. For more information about the API, visit [RapidAPI Dad Jokes API](<https://rapidapi.com/KegenGuyll/api/dad-jokes/)https://rapidapi.com/KegenGuyll/api/dad-jokes/I>).
+This extension uses the Dad Jokes API provided by RapidAPI. For more information about the API, visit [RapidAPI Dad Jokes API](<https://rapidapi.com/KegenGuyll/api/dad-jokes/>).
 
