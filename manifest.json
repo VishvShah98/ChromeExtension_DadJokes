@@ -1,0 +1,13 @@
+{
+"manifest_version": 3,
+"name": "Dad Jokes",
+"version": "1.0.0",
+"description": "Random Dad Jokes",
+"action": {
+"dafault_popup": "index.html",
+"default_title": "Dad Jokes",
+"default_locale": "en"
+},
+
+"icons": {}
+}
